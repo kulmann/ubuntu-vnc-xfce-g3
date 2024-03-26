@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=FortFantastic
+Comment=
+Exec=bash FortFantastic.sh
+Icon=/var/bugasi/icon_ff.ico
+Path=/var/bugasi
+Terminal=false
+StartupNotify=true

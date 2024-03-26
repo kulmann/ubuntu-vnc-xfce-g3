@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=UbangeSafari
+Comment=
+Exec=bash UbangeSafari.sh
+Icon=/var/bugasi/icon_us.ico
+Path=/var/bugasi
+Terminal=false
+StartupNotify=true
