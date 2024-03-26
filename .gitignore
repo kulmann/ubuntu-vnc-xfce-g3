@@ -25,3 +25,4 @@ scrap*
 secret*
 TODO*
 *.log
+.DS_Store
